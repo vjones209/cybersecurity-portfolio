@@ -1,10 +1,10 @@
 # Hello, I'm Vince
 
-I am a current graduate student who's always had an interest in computer tech and problem solving.
+I am a current graduate student who's always had an interest in computer tech and problem-solving.
 
 ## Objective
 
-My goal is to stay updated and current in my knowlege within the world of computing and tchnology. 
+My goal is to stay updated and current in my knowledge within the world of computing and technology. 
 
 ## Skills
 
