@@ -4,7 +4,7 @@ I am a current graduate student who's always had an interest in computer tech an
 
 ## Objective
 
-My goal is to stay updated and current in my knowledge within the world of computing and technology. 
+My goal is to stay updated and current in my knowledge within the world of computing and technology. I also created this portfolio to demonstrate my learning and knowledge in progress.
 
 ## Skills
 
