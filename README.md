@@ -11,7 +11,7 @@ My goal is to stay updated and current in my knowledge within the world of compu
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Suricata                                      | ![Suricata](screenshots/Suricata.jpg)|
-| Network Traffic Monitoring and Attack Detection | TEST |
+| Network Traffic Monitoring and Attack Detection |[Apply filters to SQL queries](assets/Apply_filters_to_SQL_queries.pdf)|
 | Security Automation                           | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Wireshark                                     | SOC Automation Lab|
