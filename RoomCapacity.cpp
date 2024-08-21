@@ -1,3 +1,4 @@
+//C++ code demonstrating room capacity alert
 #include <iostream>
 
 using namespace std;
