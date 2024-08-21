@@ -2,7 +2,7 @@
 
 I am a current graduate student who's always had an interest in computer tech and problem-solving.
 
-(Please navigate to the **master** branch for codes)
+(Please navigate to the [master](https://github.com/vjones209/cybersecurity-portfolio/tree/master) branch for codes)
 
 ## Objective
 
